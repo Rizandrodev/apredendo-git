@@ -32,7 +32,10 @@ body {
   section {
     margin-bottom: 20px;
   }
-  
+ div .center{
+    margin: auto;
+    display: block;
+  }
   h1, h2 {
     text-align: center;
   }
